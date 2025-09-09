@@ -4,9 +4,7 @@
 🚀 Apaixonado por tecnologia, programação e resolver problemas com código.
 📚 Sempre buscando evoluir em [full stack]
 
-🌱 Atualmente aprendendo
-
-[C#]
+🌱 Atualmente aprendendo C#
 
 ✉️ Email: lucaspds9@hotmail.com
 
