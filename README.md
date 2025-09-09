@@ -1,10 +1,10 @@
 👋 Olá, eu sou o Lucas!
 
 💻 Desenvolvedor em constante aprendizado
-🚀 Apaixonado por tecnologia, programação e resolver problemas com código.
-📚 Sempre buscando evoluir em [full stack]
+<div>📚 Sempre buscando evoluir.
+</div>
 
-🌱 Atualmente aprendendo C#
+🌱 Atualmente aprendendo C#.
 
 ✉️ Email: lucaspds9@hotmail.com
 
