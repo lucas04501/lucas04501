@@ -4,7 +4,7 @@
 <div>📚 Sempre buscando evoluir.
 </div>
 
-🌱 Atualmente aprendendo C#.
+🌱 Atualmente aprendendo C#, React.
 
 ✉️ Email: lucaspds9@hotmail.com
 
