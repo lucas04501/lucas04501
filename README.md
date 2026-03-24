@@ -4,7 +4,7 @@
 <div>📚 Always seeking to evolve.
 </div>
 
-🌱 Currently learning C# and React.
+🌱 C# | REACT | python | HTML, CSS, JS.
 
 ✉️ Email: lucaspds9@hotmail.com
 
