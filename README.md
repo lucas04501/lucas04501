@@ -3,9 +3,6 @@
   <h1>Lucas | Fullstack Developer</h1>
   <p>🚀 <em>Specializing in building robust APIs and scalable solutions focused on user experience.</em></p>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas04501&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas04501&layout=compact&langs_count=7&theme=dark"/>
-
   ---
 
   ### 📋 About Me
