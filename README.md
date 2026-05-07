@@ -1,13 +1,65 @@
-👋 Hi, I'm Lucas!
+<div align="center">
 
-💻 Developer in constant learning.
-<div>📚 Always seeking to evolve.
+  <h1>Lucas | Fullstack Developer</h1>
+  <p>🚀 <em>Specializing in building robust APIs and scalable solutions focused on user experience.</em></p>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas04501&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas04501&layout=compact&langs_count=7&theme=dark"/>
+
+  ---
+
+  ### 📋 About Me
+
+  <p>
+  🔭 <b>Current Focus:</b> Developing high-performance <b>RESTful APIs</b> using Python and Flask.<br>
+  🛠️ <b>Latest Project:</b> Built a comprehensive <b>E-commerce system</b>, simulating real-world backend workflows.<br>
+  🎯 <b>Professional Goal:</b> To deliver <b>Clean Code</b> that is efficient, maintainable, and adds value to business logic.
+  </p>
+
+  ---
+
+  ### 🛠️ Tech Stack & Tools
+
+  #### **Backend & Databases**
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-111111?style=for-the-badge&logo=json&logoColor=white" />
+
+  #### **Frontend**
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white" />
+
+  #### **DevOps & Version Control**
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+
+  ---
+
+  ### 🚀 Professional Highlights
+
+  <p>
+  <b>API Architecture:</b> Solid understanding of HTTP methods and secure endpoint design.<br>
+  <b>Version Control:</b> Professional workflow using Git for branching and collaborative development.<br>
+  <b>Problem Solving:</b> Strong background in programming logic to optimize backend performance.
+  </p>
+
+  ---
+
+  ### 📫 Let's Connect
+
+  <a href="mailto:lucaspds9@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/lucaspds9/">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <br><br>
+
+  <em>"Turning logic into solutions and code into real-world impact."</em>
+
 </div>
-
-🌱 C# | REACT | python | HTML, CSS, JS.
-
-✉️ Email: lucaspds9@hotmail.com
-
-💼 <a data-start="1067" data-end="1117" rel="noopener" target="_new" class="decorated-link" href="https://www.linkedin.com/in/lucaspds9/">LinkedIn<span aria-hidden="true" class="ms-0.5 inline-block align-middle leading-none"><svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor" xmlns="http://www.w3.org/2000/svg" data-rtl-flip="" class="block h-[0.75em] w-[0.75em] stroke-current stroke-[0.75]"><path d="M14.3349 13.3301V6.60645L5.47065 15.4707C5.21095 15.7304 4.78895 15.7304 4.52925 15.4707C4.26955 15.211 4.26955 14.789 4.52925 14.5293L13.3935 5.66504H6.66011C6.29284 5.66504 5.99507 5.36727 5.99507 5C5.99507 4.63273 6.29284 4.33496 6.66011 4.33496H14.9999L15.1337 4.34863C15.4369 4.41057 15.665 4.67857 15.665 5V13.3301C15.6649 13.6973 15.3672 13.9951 14.9999 13.9951C14.6327 13.9951 14.335 13.6973 14.3349 13.3301Z"></path></svg></span></a>
-
-✨ "With each line of code, one step closer to transforming ideas into reality." ✨
