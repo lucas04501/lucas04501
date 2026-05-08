@@ -20,7 +20,7 @@ Estudante de Engenharia de Software focado em construir produtos reais, com usu�
 
 Atualmente construindo o **ReputaçãoAI**: SaaS B2B que usa Gemini AI para ajudar negócios locais a gerenciar e responder avaliações do Google Maps.
 
-- 🔭 Projeto atual: **[ReputaçãoAI](https://github.com/lucas04501/reputacao-ai)** — Inbox de avaliações Google com IA
+- 🔭 Projeto atual: **[ReputaçãoAI](https://reputacao-ai.vercel.app/)** — Inbox de avaliações Google com IA
 
 ---
 
