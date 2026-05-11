@@ -1,68 +1,180 @@
 <div align="center">
 
-# Lucas Pereira
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Lucas%20Pereira&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Developer%20%E2%80%A2%20SaaS%20Builder%20%E2%80%A2%20AI-Powered%20Apps&descAlignY=55&descSize=16" width="100%" />
 
-**Fullstack Developer · Micro SaaS Builder · AI-Powered Apps**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=D4F564&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Construindo+produtos+reais+do+zero+%F0%9F%9A%80;Do+banco+de+dados+ao+deploy+%E2%9A%A1;SaaS+%2B+IA+%2B+Experi%C3%AAncia+de+usu%C3%A1rio+%F0%9F%A4%96" alt="Typing SVG" />
 
-_Especializado em construir produtos reais do zero — do banco de dados ao deploy._
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaspds9/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lucaspds9@hotmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://reputacao-ai.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaspds9/)
+[![Email](https://img.shields.io/badge/Email-%230078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lucaspds9@hotmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23D4F564.svg?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/lucas04501)
+[![GitHub](https://img.shields.io/badge/GitHub-%23161b22.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucas04501)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=lucas04501&color=D4F564&style=for-the-badge&label=VISITAS+AO+PERFIL)
 
 </div>
 
 ---
 
-### 🚀 Sobre mim
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-Estudante de Engenharia de Software focado em construir produtos reais, com usuários reais e receita recorrente.
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Sobre mim
 
-Atualmente construindo o **ReputaçãoAI**: SaaS B2B que usa Gemini AI para ajudar negócios locais a gerenciar e responder avaliações do Google Maps.
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 
-- 🔭 Projeto atual: **[ReputaçãoAI](https://reputacao-ai.vercel.app/)** — Inbox de avaliações Google com IA
+```typescript
+const lucas = {
+  foco:     ["SaaS", "IA", "Automações", "Produtos Web"],
+  stack:    ["Next.js", "Python", "Flask", "Supabase"],
+  ia:       ["Gemini AI", "OpenAI", "Claude AI"],
+  infra:    ["Vercel", "Linux", "Git"],
+  atual:    "Construindo o ReputaçãoAI 🚀",
+  objetivo: "Produto real → usuários reais → receita recorrente",
+  contato:  "lucaspds9@hotmail.com",
+};
+```
+
+<br clear="right"/>
 
 ---
 
-### 🛠 Tech Stack
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🚀 Projeto em Destaque
+
+<div align="center">
+
+<a href="https://github.com/lucas04501/reputacao-ai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucas04501&repo=reputacao-ai&theme=github_dark&bg_color=0d1117&border_color=D4F564&title_color=D4F564&icon_color=D4F564&text_color=a0a09a&hide_border=false" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+> 🤖 **ReputaçãoAI** — SaaS B2B que usa **Gemini AI** para ajudar negócios locais a gerenciar e responder avaliações do Google Maps de forma inteligente e automatizada.
+
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-%23D4F564?style=flat-square&logo=rocket&logoColor=black)
+![Stack](https://img.shields.io/badge/Stack-Next.js%20%2B%20Python%20%2B%20Gemini-%230d1117?style=flat-square&logo=google&logoColor=white)
+![Modelo](https://img.shields.io/badge/Modelo-SaaS%20B2B-%230A66C2?style=flat-square)
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🛠️ Tech Stack
+
+<div align="center">
 
 **Frontend**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+<br/>
 
 **Backend & Banco de Dados**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![REST API](https://img.shields.io/badge/REST%20API-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)](https://restfulapi.net/)
+
+<br/>
 
 **IA & Automação**
 
-![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+[![Gemini AI](https://img.shields.io/badge/Gemini%20AI-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+[![Claude AI](https://img.shields.io/badge/Claude%20AI-%23D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/)
+
+<br/>
 
 **Infra & DevOps**
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23161b22.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+
+<br/>
 
 **Pagamentos & Serviços**
 
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white)
+[![Stripe](https://img.shields.io/badge/Stripe-%23635BFF.svg?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/)
+[![Resend](https://img.shields.io/badge/Resend-%23000000.svg?style=for-the-badge&logo=mail.ru&logoColor=white)](https://resend.com/)
+
+</div>
 
 ---
 
-### 🏗 Building in public
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-Estou documentando a construção do ReputaçãoAI — de $0 a receita recorrente — sem investimento inicial e usando IA para multiplicar produtividade.
+## 📊 GitHub Stats
 
-> _"Turning logic into solutions and code into real-world impact."_
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lucas04501&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=D4F564&icon_color=D4F564&text_color=a0a09a&hide_border=false&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas04501&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=D4F564&text_color=a0a09a&hide_border=false&langs_count=8" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=lucas04501&theme=github-dark&background=0d1117&border=30363d&ring=D4F564&fire=D4F564&currStreakLabel=D4F564&sideLabels=a0a09a&dates=5a5a54" />
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🐍 Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucas04501/lucas04501/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucas04501/lucas04501/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/lucas04501/lucas04501/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🏗️ Building in Public
+
+```
+📦 ReputaçãoAI
+ ├── 🧠 IA que lê e responde avaliações Google com contexto
+ ├── 📊 Dashboard com métricas de reputação em tempo real
+ ├── ⚡ Automações para negócios locais
+ ├── 💳 Planos SaaS com Stripe
+ └── 🚀 Deploy: Vercel + Supabase
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%" />
+
+**"Produtos reais. Usuários reais. Receita recorrente."**
+
+[![LinkedIn](https://img.shields.io/badge/Vamos%20conversar-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaspds9/)
+
+</div>
