@@ -43,31 +43,7 @@ const lucas = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 Projeto em Destaque
-
-<div align="center">
-
-<a href="https://github.com/lucas04501/reputacao-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucas04501&repo=reputacao-ai&theme=github_dark&bg_color=0d1117&border_color=D4F564&title_color=D4F564&icon_color=D4F564&text_color=a0a09a&hide_border=false" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-> 🤖 **ReputaçãoAI** — SaaS B2B que usa **Gemini AI** para ajudar negócios locais a gerenciar e responder avaliações do Google Maps de forma inteligente e automatizada.
-
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-%23D4F564?style=flat-square&logo=rocket&logoColor=black)
-![Stack](https://img.shields.io/badge/Stack-Next.js%20%2B%20Python%20%2B%20Gemini-%230d1117?style=flat-square&logo=google&logoColor=white)
-![Modelo](https://img.shields.io/badge/Modelo-SaaS%20B2B-%230A66C2?style=flat-square)
-
-</div>
-
 ---
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Tech Stack
 
@@ -78,8 +54,6 @@ const lucas = {
 [![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
@@ -126,9 +100,6 @@ const lucas = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lucas04501&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=D4F564&icon_color=D4F564&text_color=a0a09a&hide_border=false&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas04501&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=D4F564&text_color=a0a09a&hide_border=false&langs_count=8" />
 
 <br/>
 
