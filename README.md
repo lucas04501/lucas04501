@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaspds9/)
 [![Email](https://img.shields.io/badge/Email-%230078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lucaspds9@hotmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23D4F564.svg?style=for-the-badge&logo=vercel&logoColor=black)](https://portifolio-nine-livid-23.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-%23161b22.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucas04501)
 
 <br/>
@@ -43,7 +42,33 @@ const lucas = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 🌐 Portfólio
+
+<div align="center">
+
+<br/>
+https://portifolio-nine-livid-23.vercel.app/
+
+<a href="https://portifolio-nine-livid-23.vercel.app/" target="_blank">
+  <img width="906" height="721" alt="image" src="https://github.com/user-attachments/assets/c1165f5a-3020-4ce5-81a4-03cdf71e37b4" />
+</a>a
+
+<br/><br/>
+
+| Projeto | Descrição | Stack | Status |
+|---------|-----------|-------|--------|
+| [**LENS**](https://lens-two-xi.vercel.app) | SaaS de produtividade ao vivo | Next.js · Supabase · TypeScript | ✅ Live |
+| [**FlowFin**](#) | SaaS financeiro pessoal → público | Next.js · Prisma · Recharts · Gemini | 🔧 Em desenvolvimento |
+| [**ReputaçãoAI**](#) | IA que lê e responde avaliações Google | Next.js · Gemini AI · Stripe | 🚀 Building |
+| [**Vire a Chave**](#) | E-book digital com funil de vendas | Landing Page · Automação | ✅ Publicado |
+
+<br/>
+
+</div>
+
 ---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Tech Stack
 
@@ -89,7 +114,7 @@ const lucas = {
 **Pagamentos & Serviços**
 
 [![Stripe](https://img.shields.io/badge/Stripe-%23635BFF.svg?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/)
-[![Resend](https://img.shields.io/badge/Resend-%23000000.svg?style=for-the-badge&logo=minutemailer&logoColor=white)](https://resend.com/)
+[![Resend](https://img.shields.io/badge/Resend-%23000000.svg?style=for-the-badge&logo=maildotru&logoColor=white)](https://resend.com/)
 
 </div>
 
