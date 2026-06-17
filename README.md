@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaspds9/)
 [![Email](https://img.shields.io/badge/Email-%230078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lucaspds9@hotmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23D4F564.svg?style=for-the-badge&logo=vercel&logoColor=black)](https://portifolio-nine-livid-23.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23D4F564.svg?style=for-the-badge&logo=vercel&logoColor=black)](https://portifolio-nine-livid-23.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-%23161b22.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucas04501)
 
 <br/>
@@ -73,7 +73,7 @@ const lucas = {
 
 [![Gemini AI](https://img.shields.io/badge/Gemini%20AI-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
-[![Claude AI](https://img.shields.io/badge/Claude%20AI-%23D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/)
+[![Claude AI](https://img.shields.io/badge/Claude%20AI-%23D97757.svg?style=for-the-badge&logoColor=white)](https://claude.ai/)
 
 <br/>
 
@@ -89,7 +89,7 @@ const lucas = {
 **Pagamentos & Serviços**
 
 [![Stripe](https://img.shields.io/badge/Stripe-%23635BFF.svg?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/)
-[![Resend](https://img.shields.io/badge/Resend-%23000000.svg?style=for-the-badge&logo=mail.ru&logoColor=white)](https://resend.com/)
+[![Resend](https://img.shields.io/badge/Resend-%23000000.svg?style=for-the-badge&logo=minutemailer&logoColor=white)](https://resend.com/)
 
 </div>
 
