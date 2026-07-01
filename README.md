@@ -51,7 +51,7 @@ https://portifolio-nine-livid-23.vercel.app/
 
 <a href="https://portifolio-nine-livid-23.vercel.app/" target="_blank">
   <img width="906" height="721" alt="image" src="https://github.com/user-attachments/assets/c1165f5a-3020-4ce5-81a4-03cdf71e37b4" />
-</a>a
+</a>
 
 <br/><br/>
 
