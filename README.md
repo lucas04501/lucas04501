@@ -7,7 +7,7 @@
 <div align="center">
 
 ```
-  não faço sites bonitos pra clientes.
+  não faço sites qualquer pra clientes.
   construo produtos que resolvem problemas reais.
 ```
 
