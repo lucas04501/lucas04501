@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Lucas Pereira, desenvolvedor full stack em formação. Estudante de Engenharia de Software na Univassouras." width="720" />
+<a href="https://portifolio-nine-livid-23.vercel.app" title="Abrir o portfólio">
+  <img src="assets/banner.svg" alt="Lucas Pereira, desenvolvedor full stack em formação. Estudante de Engenharia de Software na Univassouras, buscando estágio em tecnologia. Clique para abrir o portfólio." width="100%" />
+</a>
 
 </div>
+
+<img src="assets/divider.svg" alt="" width="100%" />
 
 ## Olá, eu sou o Lucas
 
@@ -10,16 +14,27 @@ Estudante de Engenharia de Software na Univassouras e desenvolvedor full stack e
 
 **[Portfólio](https://portifolio-nine-livid-23.vercel.app)** · **[LinkedIn](https://www.linkedin.com/in/lucaspds9/)** · **[E-mail](mailto:lucaspds9@hotmail.com)**
 
+<div align="center">
+
+<img src="assets/terminal.svg" alt="Terminal: Lucas Pereira, estudante de Engenharia de Software na Univassouras. Tecnologias usadas em projetos: TypeScript, JavaScript, Python, SQL, Node.js, PostgreSQL, React e Tailwind CSS. Status: buscando estágio em tecnologia." width="760" />
+
+</div>
+
+<img src="assets/divider.svg" alt="" width="100%" />
+
 ## Projetos
 
 - **[LENS](https://lens-two-xi.vercel.app)** · sistema de produtividade que reúne hábitos com sequência, tarefas em quadro Kanban, rotina semanal, metas de 90 dias e um timer de foco, com gamificação. Uso para mim e quero abrir para outras pessoas.
   TypeScript, Prisma, PostgreSQL, NextAuth, Zustand, Tailwind CSS · [código](https://github.com/lucas04501/LENSAPP)
 - **[Vire a Chave](https://vire-a-chave.vercel.app)** · e-book de autodesenvolvimento, escrito a partir de livros, hábitos e estudos de neurociência, com página própria de venda e pagamento pelo Kiwify. Em desenvolvimento: ligá-lo ao LENS.
-- **[API de e-commerce](https://github.com/lucas04501/E-commerce)** · API em Python e Flask com login, catálogo, carrinho e finalização de compra, documentada com Swagger.
+- **[FlowFin](https://github.com/lucas04501/FlowFin)** · controle financeiro pessoal feito do zero, em desenvolvimento. Hoje: a base do back-end em Node.js, com Express e PostgreSQL.
+- **[API de e-commerce](https://github.com/lucas04501/E-commerce)** · API de loja virtual em Python e Flask, em construção: login, CRUD de produtos e carrinho. Projeto de estudo.
 
 Os detalhes de cada um estão no [portfólio](https://portifolio-nine-livid-23.vercel.app/#projetos).
 
 ## Tecnologias
+
+<img src="assets/tech-marquee.svg" alt="Tecnologias usadas em projetos: TypeScript, JavaScript, Python, SQL, React, Tailwind CSS, Node.js, PostgreSQL, Prisma, Supabase, Flask, Kiwify, Stripe, Git e GitHub, Vercel, Claude e Gemini." width="100%" />
 
 **Já usei em projetos:** TypeScript, JavaScript, Python, SQL, HTML e CSS, React, Tailwind CSS, Node.js, PostgreSQL, Prisma, Supabase, Flask, Kiwify, Stripe, Git e GitHub, Vercel e ferramentas de IA (Claude e Gemini).
 
@@ -28,6 +43,8 @@ Os detalhes de cada um estão no [portfólio](https://portifolio-nine-livid-23.v
 ## Formação
 
 Bacharelado em Engenharia de Software, Univassouras (2026 a 2030, 2º período), e cursos da Rocketseat: Fundamentos de Desenvolvimento Web, Git e GitHub, Python com Flask, Introdução ao C e Fundamentos do React.
+
+<img src="assets/divider.svg" alt="" width="100%" />
 
 ## GitHub em números
 
@@ -44,4 +61,4 @@ Bacharelado em Engenharia de Software, Univassouras (2026 a 2030, 2º período),
 
 ## Contato
 
-Escreva para [lucaspds9@hotmail.com](mailto:lucaspds9@hotmail.com) ou me encontre no [LinkedIn](https://www.linkedin.com/in/lucaspds9/).
+Escreva para [lucaspds9@hotmail.com](mailto:lucaspds9@hotmail.com) ou me encontre no [LinkedIn](https://www.linkedin.com/in/lucaspds9/). O [portfólio](https://portifolio-nine-livid-23.vercel.app/#contato) tem os mesmos contatos.
