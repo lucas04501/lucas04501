@@ -29,6 +29,19 @@ Os detalhes de cada um estão no [portfólio](https://portifolio-nine-livid-23.v
 
 Bacharelado em Engenharia de Software, Univassouras (2026 a 2030, 2º período), e cursos da Rocketseat: Fundamentos de Desenvolvimento Web, Git e GitHub, Python com Flask, Introdução ao C e Fundamentos do React.
 
+## GitHub em números
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=lucas04501&show_icons=true&hide_rank=true&bg_color=0B0D10&title_color=8DB4E8&text_color=E8EAED&icon_color=8DB4E8&border_color=262C35" alt="Estatísticas públicas do GitHub de Lucas Pereira: estrelas, commits, pull requests e issues" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas04501&layout=compact&langs_count=6&bg_color=0B0D10&title_color=8DB4E8&text_color=E8EAED&border_color=262C35" alt="Linguagens mais usadas nos repositórios públicos de Lucas Pereira" height="165" />
+
+<img src="https://streak-stats.demolab.com?user=lucas04501&background=0B0D10&border=262C35&stroke=262C35&ring=8DB4E8&fire=8DB4E8&currStreakNum=E8EAED&sideNums=E8EAED&currStreakLabel=8DB4E8&sideLabels=9AA3AF&dates=8791A0" alt="Contribuições totais e sequências de contribuição de Lucas Pereira no GitHub" />
+
+<sub>Dados públicos do GitHub, gerados por github-readme-stats e streak-stats.</sub>
+
+</div>
+
 ## Contato
 
 Escreva para [lucaspds9@hotmail.com](mailto:lucaspds9@hotmail.com) ou me encontre no [LinkedIn](https://www.linkedin.com/in/lucaspds9/).
