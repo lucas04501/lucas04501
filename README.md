@@ -42,7 +42,7 @@ Os detalhes de cada um estão no [portfólio](https://portifolio-nine-livid-23.v
 
 ## Formação
 
-Bacharelado em Engenharia de Software, Univassouras (2026 a 2030, 2º período), e cursos da Rocketseat: Fundamentos de Desenvolvimento Web, Git e GitHub, Python com Flask, Introdução ao C e Fundamentos do React.
+Bacharelado em Engenharia de Software, Univassouras (2026 a 2030, 2º período), e cursos da Rocketseat: Fundamentos de Desenvolvimento Web, Git e GitHub, Python com Flask, Introdução ao C# e Fundamentos do React.
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
