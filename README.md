@@ -38,7 +38,7 @@ Os detalhes de cada um estão no [portfólio](https://portifolio-nine-livid-23.v
 
 **Já usei em projetos:** TypeScript, JavaScript, Python, SQL, HTML e CSS, React, Tailwind CSS, Node.js, PostgreSQL, Prisma, Supabase, Flask, Kiwify, Stripe, Git e GitHub, Vercel e ferramentas de IA (Claude e Gemini).
 
-**Estudando:** C e Fastify.
+**Estudando:** Backend/Node.js/Fastify.
 
 ## Formação
 
